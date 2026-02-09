@@ -1,0 +1,33 @@
+.mytext {
+    color:rgba(74, 58, 252, 0.323);
+    font-size:30px;
+    font-family:fantasy;
+    text-align:center;
+}
+.ggs {
+    color:rgba(0, 183, 255, 0.89);
+    font-family:fantasy;
+    text-align:center;
+    font-size: 50px;
+}
+.oh {
+    background: linear-gradient(90deg, rgb(255, 0, 0), orange, yellow, green, cyan, blue, violet);
+   color: transparent;
+   font-size: 20px;
+
+}
+.rainbow-text {
+  font-size: 50px;
+  font-weight: bold;
+  background: linear-gradient(
+    90deg,
+    red,
+    orange,
+    yellow,
+    green,
+    cyan,
+    blue,
+    violet
+  );
+  -webkit-text-fill-color: transparent;
+}
