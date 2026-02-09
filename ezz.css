@@ -16,18 +16,3 @@
    font-size: 20px;
 
 }
-.rainbow-text {
-  font-size: 50px;
-  font-weight: bold;
-  background: linear-gradient(
-    90deg,
-    red,
-    orange,
-    yellow,
-    green,
-    cyan,
-    blue,
-    violet
-  );
-  -webkit-text-fill-color: transparent;
-}
