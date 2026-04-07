@@ -16,7 +16,7 @@ body {
         black
     );
     background-size: 300% 300%;
-    animation: clap 20s ease-in-out infinite;
+    animation: clap 15s ease-in-out infinite;
 }
 @keyframes clap{
     0% { background-position: 0% 50%}
